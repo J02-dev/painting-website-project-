@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    margin: auto;
+    margin-right: 50px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin: auto;
+    margin-right: auto;
+}
+.examples {
+    font-size: 15px;
+    margin: auto;
+    margin-right: 50px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0; 
+    padding: 0;
+    background-color: lightgray;
+    width: 10%;
+    height: 100%;
+    position: fixed;
+    overflow: auto;
+}
+
+li a {
+    display: block;
+    width: 60px;
+    padding: 8px;
+    text-decoration: none;
+    color: black;
+}
+
+.test2 {
+    font-size: 15px;
+    margin: auto;
+    margin-right: 50px;
+    text-align: center;
+}
